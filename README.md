@@ -1,7 +1,7 @@
-### Hi Everyone!Welcome to Chimobi's Github profile 👋
-
-- Learning Frontend web development
-- 🔭 I’m currently working on creating a model to predict high value customers for a bike company
-- 🌱 I'm also in my learning phase still trying get comfortable with applying machine learning algorithms to solve problems
-- 🤔 I’m looking for help with getting internships, or a job as a frontend engineer
+### Hi! Welcome to my Github profile 👋
+- I'm a continous learner obssessed with using technology to make life better
+- At the moment I'm Learning Frontend web development (HTML, CSS, JavaScript, React)
+- I have developed beginner to intermediate level skill in Data Analysis, I can work with a range of tools (Python, SQL, PowerBi, Tableau and Excel) to derive insight out of data.
+- 😉 I've also tried my hand's some Machine Learning
+- 🤔 I’m looking for help with getting internships, or a job as a frontend engineer 
 
